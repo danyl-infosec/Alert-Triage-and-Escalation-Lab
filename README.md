@@ -1,7 +1,5 @@
 # Alert-Triage-and-Escalation-Lab
 
-# Lab 1 – Phishing Alert Investigation
-
 ## Objective
 Investigate a phishing alert detected post‑delivery, validate authenticity using email security checks, and determine whether escalation is required.
 
