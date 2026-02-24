@@ -44,8 +44,7 @@ Both checks failing strongly indicate spoofing. The attachment is likely malicio
 - Updated verdict: **True Positive**.  
 - Escalated alert to Level 2 analyst for deeper investigation and containment.
 
-![image alt](https://raw.githubusercontent.com/danyl-infosec/SOC-Labs/refs/heads/main/Lab1%20Screenshot%20(2).png
-)
+![image alt](https://raw.githubusercontent.com/danyl-infosec/Alert-Triage-and-Escalation-Lab/refs/heads/main/Lab1%20Screenshot%20(2).png)
 ---
 
 ## Lessons Learned
