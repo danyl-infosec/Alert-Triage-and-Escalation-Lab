@@ -5,7 +5,7 @@
 ## Objective
 Investigate a phishing alert detected post‑delivery, validate authenticity using email security checks, and determine whether escalation is required.
 
-![image alt](https://raw.githubusercontent.com/danyl-infosec/SOC-Labs/refs/heads/main/Lab%201%20Screenshot%20(1).png)
+![image alt](https://raw.githubusercontent.com/danyl-infosec/Alert-Triage-and-Escalation-Lab/refs/heads/main/Lab%201%20Screenshot%20(1).png)
 ---
 
 ## Step 1 – Identify Highest Priority Alert
